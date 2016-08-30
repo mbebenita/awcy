@@ -1,0 +1,21 @@
+{
+  "name": "r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "15.3.1",
+    "react-bootstrap": "^0.30.3",
+    "react-dom": "15.3.1",
+    "typescript": "1.8.10"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  }
+}
